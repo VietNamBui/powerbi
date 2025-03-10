@@ -1,4 +1,6 @@
 # Power BI Sales Dashboard
+![21108771_BuiVietNam](https://github.com/user-attachments/assets/19582a56-d40f-4e26-a077-3af934447486)
+
 Link: https://app.powerbi.com/groups/me/reports/bcd68d0f-b177-42d4-afe3-c337f27ded4e/ReportSection?experience=power-bi
 
 ## Sales Analysis Dashboard Design  
