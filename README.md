@@ -1,4 +1,5 @@
-# Power BI Sales Dashboard  
+# Power BI Sales Dashboard
+Link: https://app.powerbi.com/groups/me/reports/bcd68d0f-b177-42d4-afe3-c337f27ded4e/ReportSection?experience=power-bi
 
 ## Sales Analysis Dashboard Design  
 
